@@ -1,8 +1,8 @@
 <div id="badges" align="center">
 <a href= "https://vk.com/id560474747">
-<img src = "href="https://vk.com"><img src="/images/vk-icon.png" alt="VK Badge"/>
+<img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href= "https://mail.google.com/mail/u/1/#inbox">
-  <img scr= "https://shields.microej.com/twitter/url?url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F" alt="VK Badge"/>
+  <img scr= "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="VK Badge"/>
     </a>
   </div>
