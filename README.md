@@ -37,3 +37,8 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sane4chka" alt=""/>
 </div>
+
+### :bar_chart: Статистика фктивности :
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sane4chka&theme=react-dark" alt=""/>
+</div>
